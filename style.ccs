@@ -1,0 +1,28 @@
+h1{
+    color:#10EF9F;
+    text-align: center;
+}
+header{
+    background-color: #F80000;
+}
+footer{
+  background-color:#5A0C0C ; 
+}
+body{
+   background-color: #7A89D7; 
+}
+h2{
+    text-align: center;
+}
+.ero{
+   width: 464px;
+   height: 223px; 
+   
+}
+.ep{
+    width:102px ;
+    height:102px ;
+}
+.rytyt{
+    color: #2EBB4D;
+}
